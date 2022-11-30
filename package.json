@@ -1,10 +1,9 @@
 {
   "name": "@check-121/private-module",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "release": "standard-version && git push --follow-tags && npm publish"
   },
   "author": "lschen",
